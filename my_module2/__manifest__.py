@@ -12,6 +12,6 @@
     'website': "http://www.braintec-group.com/",
     'category': 'Extra Tools',
     'version': '11.0.1.0.0',
-    'license': 'AGPL',
+    'license': 'LGPL-3',
     'depends': ['base'],
 }
